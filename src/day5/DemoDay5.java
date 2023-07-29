@@ -7,4 +7,8 @@ public class DemoDay5 {
 		
 	}
 
+	public static void getData() {
+		System.out.println("This is Data..") ;
+	}
+
 }
